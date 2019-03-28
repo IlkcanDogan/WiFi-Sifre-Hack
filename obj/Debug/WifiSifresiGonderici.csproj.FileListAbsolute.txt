@@ -1,0 +1,30 @@
+C:\Users\MKA\source\repos\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.csprojAssemblyReference.cache
+C:\Users\MKA\source\repos\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.Form1.resources
+C:\Users\MKA\source\repos\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.Properties.Resources.resources
+C:\Users\MKA\source\repos\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.csproj.GenerateResource.cache
+C:\Users\MKA\source\repos\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.csproj.CoreCompileInputs.cache
+C:\Users\MKA\source\repos\WifiSifresiGonderici\WifiSifresiGonderici\bin\Debug\WifiSifresiGonderici.exe.config
+C:\Users\MKA\source\repos\WifiSifresiGonderici\WifiSifresiGonderici\bin\Debug\WifiSifresiGonderici.exe
+C:\Users\MKA\source\repos\WifiSifresiGonderici\WifiSifresiGonderici\bin\Debug\WifiSifresiGonderici.pdb
+C:\Users\MKA\source\repos\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.exe
+C:\Users\MKA\source\repos\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.pdb
+C:\Users\MKA\Desktop\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\bin\Debug\WifiSifresiGonderici.exe.config
+C:\Users\MKA\Desktop\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\bin\Debug\WifiSifresiGonderici.exe
+C:\Users\MKA\Desktop\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\bin\Debug\WifiSifresiGonderici.pdb
+C:\Users\MKA\Desktop\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.csprojAssemblyReference.cache
+C:\Users\MKA\Desktop\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.Form1.resources
+C:\Users\MKA\Desktop\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.Properties.Resources.resources
+C:\Users\MKA\Desktop\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.csproj.GenerateResource.cache
+C:\Users\MKA\Desktop\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.csproj.CoreCompileInputs.cache
+C:\Users\MKA\Desktop\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.exe
+C:\Users\MKA\Desktop\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.pdb
+D:\Yeni klasör\7) Yazılım Projeleri\Wifi Şifre Alıcı - Kaynak Kod[Coded By White Shade]\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\bin\Debug\WifiSifresiGonderici.exe.config
+D:\Yeni klasör\7) Yazılım Projeleri\Wifi Şifre Alıcı - Kaynak Kod[Coded By White Shade]\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\bin\Debug\WifiSifresiGonderici.exe
+D:\Yeni klasör\7) Yazılım Projeleri\Wifi Şifre Alıcı - Kaynak Kod[Coded By White Shade]\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\bin\Debug\WifiSifresiGonderici.pdb
+D:\Yeni klasör\7) Yazılım Projeleri\Wifi Şifre Alıcı - Kaynak Kod[Coded By White Shade]\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.csprojAssemblyReference.cache
+D:\Yeni klasör\7) Yazılım Projeleri\Wifi Şifre Alıcı - Kaynak Kod[Coded By White Shade]\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.Form1.resources
+D:\Yeni klasör\7) Yazılım Projeleri\Wifi Şifre Alıcı - Kaynak Kod[Coded By White Shade]\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.Properties.Resources.resources
+D:\Yeni klasör\7) Yazılım Projeleri\Wifi Şifre Alıcı - Kaynak Kod[Coded By White Shade]\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.csproj.GenerateResource.cache
+D:\Yeni klasör\7) Yazılım Projeleri\Wifi Şifre Alıcı - Kaynak Kod[Coded By White Shade]\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\7) Yazılım Projeleri\Wifi Şifre Alıcı - Kaynak Kod[Coded By White Shade]\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.exe
+D:\Yeni klasör\7) Yazılım Projeleri\Wifi Şifre Alıcı - Kaynak Kod[Coded By White Shade]\Wi-Fi Şifre Alıcı [Kaynak Kod]\WifiSifresiGonderici\WifiSifresiGonderici\obj\Debug\WifiSifresiGonderici.pdb
